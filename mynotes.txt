@@ -4,3 +4,8 @@ git init = initialize a repository
 git clone = clone a repository
 git commit = commit changes to a repo
 git log = check commit log for a repo
+
+
+
+Git Commit style guide - http://udacity.github.io/git-styleguide/
+
