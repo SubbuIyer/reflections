@@ -1,0 +1,6 @@
+# git hub
+
+git init = initialize a repository
+git clone = clone a repository
+git commit = commit changes to a repo
+git log = check commit log for a repo
